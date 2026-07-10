@@ -1,0 +1,23 @@
+# OBJ written from /Users/reecerobinson/Documents/Blender/Decals/LowPolyGutterRoad1.obj
+# Units	meters
+
+o Low Poly Gutter Road 1
+v 0.141106 0.14016 1.99731
+v 0.141106 0.00333613 1.99731
+v 0.141106 0.00333613 0.000287415
+v 0.141106 0.14016 0.000287415
+v 0.537536 0.00333613 1.99731
+v 0.537536 0.00333613 0.000287415
+vn 1 0 0
+vn 0 1 0
+vt 0.01 0.204043
+vt 0.99 0.204043
+vt 0.99 0.271014
+vt 0.01 0.271014
+vt 0.99 0.01
+vt 0.01 0.01
+mtllib LowPolyGutterRoad1.mtl
+usemtl Transparent_032Material
+g Default
+f 2/1/1 3/2/1 4/3/1 1/4/1
+f 6/5/2 3/2/2 2/1/2 5/6/2

@@ -1,0 +1,17 @@
+# OBJ written from /Users/reecerobinson/Documents/Blender/Decals/LowPolyGutterFootpath1.obj
+# Units	meters
+
+o Low Poly Gutter Footpath 1
+v 0.131242 0.150281 1.99721
+v 0.131242 0.150281 0.000102596
+v -0.000407847 0.150281 0.000102596
+v -0.000407847 0.150281 1.99721
+vn 0 1 0
+vt 0.99 0.275841
+vt 0.99 0.331022
+vt 0.01 0.331022
+vt 0.01 0.275841
+mtllib LowPolyGutterFootpath1.mtl
+usemtl Default
+g Default
+f 2/1/1 3/2/1 4/3/1 1/4/1
